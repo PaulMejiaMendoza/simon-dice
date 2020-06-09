@@ -1,3 +1,5 @@
 # simon-dice
 
-![simon](https://user-images.githubusercontent.com/54085516/84208987-43b59e80-aab5-11ea-89e0-d1b764c024be.gif)
+
+![simon](https://user-images.githubusercontent.com/54085516/84209385-4c5aa480-aab6-11ea-9247-1a49867a835d.gif)
+
